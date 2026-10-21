@@ -6,10 +6,10 @@ FinSight is an interactive financial analysis dashboard developed using Microsof
 ## Dashboard Preview
 
 ### Overview Analysis
-![Overview Analysis](screenshots/overview-analysis.png)
+![Overview Analysis](screenshots/Overview-Analysis.png)
 
 ### Transactions
-![Transactions](screenshots/transaction.png)
+![Transactions](screenshots/Transaction.png)
 
 ## Key Features
 - Total Amount and Total Transactions
