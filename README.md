@@ -38,5 +38,4 @@ FinSight is an interactive financial analysis dashboard developed using Microsof
 - `FinSight-Financial-Analysis.pbix` — Power BI report
 - `screenshots/` — Dashboard screenshots
 
-## Author
-Akalya R.
+
